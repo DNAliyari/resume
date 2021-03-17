@@ -1,0 +1,17 @@
+.navigation{
+    width: 100%;
+    height: 25px;
+    position: fixed;
+    z-index: 9999;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+span{
+    cursor: pointer;
+}
+
+.right{
+    float: right;
+    margin-right: 40px;
+}

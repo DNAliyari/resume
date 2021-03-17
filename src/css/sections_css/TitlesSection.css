@@ -1,0 +1,45 @@
+.title-color-1 {
+    background-color: #1FAA59;
+    color: white;
+}
+
+.title-color-2 {
+    background-color: #38CC77;
+    color: white;
+}
+
+.title-color-3 {
+    background-color: #02B290;
+    color: white;
+}
+
+.title-color-4 {
+    background-color: #3DBE29;
+    color: white;
+}
+
+.title-color-5 {
+    background-color: #6EC72D;
+    color: white;
+}
+
+.title-color-6 {
+    background-color: #1C8D73;
+    color: white;
+}
+
+.title-color-7 {
+    background-color: #00D84A;
+    color: white;
+}
+
+.icons-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    margin: 10px;
+}

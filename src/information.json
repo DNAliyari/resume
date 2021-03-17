@@ -1,0 +1,89 @@
+{
+  "title": "Hello, I'm Daniyal (^_^)",
+  "description": "Fullstack Developer | Sys-Admin | Photographer",
+  "links": {
+    "telegram": "https://t.me/D_N_Aliyari",
+    "github": "https://github.com/kingdaniyal",
+    "instagram": "https://t.me/d.n.aliyari",
+    "email": "mailto:info@dnaliyari.ir"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "Hello, I'm Daniyal Nezhad Aliyari"
+        },
+        {
+          "type": "p",
+          "content": "I was Born in Isfahan, 12 June 1996"
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/phalcon.png",
+            "title": "Phalcon (PHP)"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/laravel.png",
+            "title": "Laravel (PHP)"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/django.jpg",
+            "title": "Django (Python)"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/linux.png",
+            "title": "Linux"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/network.png",
+            "title": "Network"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/mongodb.png",
+            "title": "Mongodb"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/mysql.png",
+            "title": "MySQL"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down": "images/down.png"
+  }
+}

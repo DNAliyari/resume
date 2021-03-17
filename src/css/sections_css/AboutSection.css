@@ -1,0 +1,36 @@
+p {
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.about-color-1 {
+    background-color: #E8BD0D;
+}
+
+.about-color-2 {
+    background-color: #F4BE2C;
+}
+
+.about-color-3 {
+    background-color: #EDC126;
+}
+
+.about-color-4 {
+    background-color: #DDD101;
+}
+
+.about-color-5 {
+    background-color: #F7CD2E;
+}
+
+.about-color-6 {
+    background-color: #C7C11A;
+}
+
+.about-color-7 {
+    background-color: #A77B06;
+}
+
+h3 {
+    font-size: 3rem;
+}

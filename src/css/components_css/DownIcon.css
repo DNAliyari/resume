@@ -1,0 +1,12 @@
+.downicon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -34px;
+    transform: translateY(-45px);
+}
+
+.downicon div {
+    max-width: 30px;
+}
